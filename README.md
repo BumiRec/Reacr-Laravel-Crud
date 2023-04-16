@@ -2,7 +2,7 @@
 
 Installation
 
-    Run git clone https://github.com/arifszn/react-laravel.git
+    Run git clone https://github.com/BumiRec/Reacr-Laravel-Crud.git
     Run cd react-laravel
     Run composer install
     Setup database
